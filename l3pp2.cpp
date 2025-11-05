@@ -8,6 +8,7 @@ int main(){
           cout<<count<<" ";
           count ++;            //count=count+1, count+=1, count ++ (all are same)
      }
-     cout<<endl;
+     cout<<endl<<"---cudlingpingpong---";
      return 0;
+
 }
