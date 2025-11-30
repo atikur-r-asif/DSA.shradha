@@ -41,4 +41,5 @@ int main(){
      std::cout<<"The maximum of two number is: "<<max<<std::endl;
      std::cout<<"--------------"<<std::endl;
      return 0;
+
 }
